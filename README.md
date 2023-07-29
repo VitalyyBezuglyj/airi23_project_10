@@ -4,13 +4,13 @@ Repo for the AIRI Summer School research project on "Application of differentiab
 
 ## Abstract
 
-В рамках данного проекта был проведен обзор подходов применения обчуаемых векторных представлений трёхмерного пространства, выделена одна из наиболее перспективных задача в данной области - "Сегментация трёхмерной сцены по произвольному текстовому запросу" и рассмотрены и экспериментально изучены две актуальные работы в этой области - [OpenScene, CVPR 2023](https://pengsongyou.github.io/openscene) и VLMap (добавить ссылку, год).
+В рамках данного проекта был проведен обзор подходов применения обчуаемых векторных представлений трёхмерного пространства, выделена одна из наиболее перспективных задача в данной области - "Сегментация трёхмерной сцены по произвольному текстовому запросу" и рассмотрены и экспериментально изучены две актуальные работы в этой области - [OpenScene, CVPR 2023](https://pengsongyou.github.io/openscene) и [VLMap, ICRA2023](vlmaps.github.io/).
 
 ## Project Structure
 
 Исследование проводилось параллельно по обеим работам, в различных репозиториях:
 1. OpenScene - [VitalyyBezuglyj/openscene_experiments](https://github.com/VitalyyBezuglyj/openscene_experiments)
-2. VLMap - [github]()
+2. VLMap - [Ladanovasv/vlmaps_experiments](https://github.com/Ladanovasv/vlmaps_experiments)
 
 ## Data
 
